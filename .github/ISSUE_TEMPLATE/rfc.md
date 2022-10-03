@@ -1,6 +1,6 @@
 ---
 name: RFC
-about: For all Request for Jobs
+about: For all Request for Comments
 title: ''
 labels: ''
 assignees: ''
